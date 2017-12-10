@@ -8,6 +8,8 @@
 
 ### Setup Firebase Local Env.
 * ```npm install -g firebase-tools```
+* ```mkdir otp_server```
+* ```cd otp_server```
 * ```firebase``` ⇒ Verify firebase installed
 * ```firebsase login``` ⇒ Login to Firebase
   * A URL will generate on the terminal..
