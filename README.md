@@ -10,8 +10,8 @@
 * ```npm install -g firebase-tools```
 * ```firebase``` ⇒ Verify firebase installed
 * ```firebsase login``` ⇒ Login to Firebase
-  * A url will generate on terminal..
-  * Copy url from terminal to web browser and login to google account
+  * A URL will generate on the terminal..
+  * Copy the URL from terminal to a web browser and login to google account
 * ```firebase init``` ⇒ Generate local Firebase boilerplate
   * Select this options:
   * ***Firebase cli*** ⇒ select: ***functions***
