@@ -1,5 +1,5 @@
 # OTP via React-Native & Firebase
-1. (Setup Firebase)[https://github.com/domainio/otp_rn_firebase/blob/master/README.md#setup-firebase]
+1. [Setup Firebase](https://github.com/domainio/otp_rn_firebase/blob/master/README.md#setup-firebase)
 ## Setup Firebase
 ### Create Firebase Cloud Project
 * Go to: http://firebase.google.com
