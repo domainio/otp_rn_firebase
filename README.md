@@ -25,6 +25,8 @@
     * ***Which project do you want to add?*** ⇒ select the project created in cloud
     * ***What alias do you want to use for this project?*** ⇒ type any name
   * ```firebase deploy``` ⇒ deploy local project to cloud project
+  * https://console.firebase.google.com/project/<my_proj_name>
+  ```firebase deploy --project my_proj_namne```
 
 ## Configure Twilio
 * Go to: http://www.twilio.com
