@@ -8,9 +8,9 @@
 
 ### Setup Firebase Local Env.
 * ```npm install -g firebase-tools```
+* ```firebase``` ⇒ Verify firebase installed
 * ```mkdir otp_server```
 * ```cd otp_server```
-* ```firebase``` ⇒ Verify firebase installed
 * ```firebsase login``` ⇒ Login to Firebase
   * A URL will generate on the terminal..
   * Copy the URL from terminal to a web browser and login to google account
@@ -25,3 +25,9 @@
     * ***Which project do you want to add?*** ⇒ select the project created in cloud
     * ***What alias do you want to use for this project?*** ⇒ type any name
   * ```firebase deploy``` ⇒ deploy local project to cloud project
+
+## Configure Twilio
+* Go to: http://www.twilio.com
+* Login
+* Pick American phone number
+* Twilio Credentials http://www.twilio.com/console
